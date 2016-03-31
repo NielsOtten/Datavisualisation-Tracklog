@@ -1,0 +1,19 @@
+{
+  "name": "datavisualisation-tracklog",
+  "version": "1.0.0",
+  "description": "a viuslisation of the data collected by the tracklog api. Found at http://www.stud.cmi.hro.nl/0896704/Tracklog",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nylsoo/Datavisualisation-Tracklog.git"
+  },
+  "author": "Niels Otten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nylsoo/Datavisualisation-Tracklog/issues"
+  },
+  "homepage": "https://github.com/nylsoo/Datavisualisation-Tracklog#readme"
+}
