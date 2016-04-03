@@ -4,7 +4,8 @@
   "description": "a viuslisation of the data collected by the tracklog api. Found at http://www.stud.cmi.hro.nl/0896704/Tracklog",
   "main": "js/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/nylsoo/Datavisualisation-Tracklog/issues"
   },
-  "homepage": "https://github.com/nylsoo/Datavisualisation-Tracklog#readme"
+  "homepage": "https://github.com/nylsoo/Datavisualisation-Tracklog#readme",
+  "dependencies": {
+    "browser-sync": "^2.11.2",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-shell": "^0.5.2",
+    "http": "0.0.0",
+    "socket.io": "^1.4.5"
+  }
 }
