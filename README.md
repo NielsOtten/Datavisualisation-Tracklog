@@ -2,11 +2,7 @@
 
 Datavisualisation from the tracklog api: http://stud.cmi.hro.nl/0896704/tracklog
 
-##Concept 1:
-Every entry is shown on a map and connect through lines. You can click on categories, datatypes or companies to minimize the data that is shown.
-
-##Concept 2:
-This concept is kinda like "scotland yard" the board game.
+Created a little game where everybody can move around a map and try to find where i have been. This data is obtained from an api i created for a school assignment.
 
 ###Player:
 - Can move around the map
