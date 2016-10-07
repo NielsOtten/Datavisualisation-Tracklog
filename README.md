@@ -1,6 +1,6 @@
 #Datavisualisation Tracklog
 
-Datavisualisation from the tracklog api: http://www.stud.cmi.hro.nl/0896704/tracklog
+Datavisualisation from the tracklog api: http://stud.cmi.hro.nl/0896704/tracklog
 
 ##Concept 1:
 Every entry is shown on a map and connect through lines. You can click on categories, datatypes or companies to minimize the data that is shown.
